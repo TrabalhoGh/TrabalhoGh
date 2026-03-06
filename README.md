@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🛠️ Skills
 
-<!--
-**TrabalhoGh/TrabalhoGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Security
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,azure,windows" />
+</p>
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity
+<p>
+<img src="https://img.shields.io/badge/SIEM-blue?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Game Development
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
+<img src="https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+</p>
