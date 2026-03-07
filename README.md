@@ -30,5 +30,6 @@
 </p>
 
 ### Studies Platforms
+<p>
 <img src="https://letsdefend.io/static/media/logo.4d7c6b7c.svg" width="40"/> LetsDefend
-
+</p>
