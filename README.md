@@ -22,6 +22,6 @@
 <p>
 <img src="https://cdn.simpleicons.org/blender" width="40"/>
 <img src="https://cdn.simpleicons.org/aseprite" width="40"/>
-<img src="https://raw.githubusercontent.com/DragonBones/DragonBonesJS/master/doc/img/logo.png" width="40"/>
-<img src="https://esotericsoftware.com/files/images/spine-logo.png" width="40"/>
+<img src="https://raw.githubusercontent.com/DragonBones/Tools/master/Logo/DragonBones_Logo.png" width="40"/>
+<img src="https://raw.githubusercontent.com/EsotericSoftware/spine-runtimes/4.1/spine-logo.png" width="40"/>
 </p>
