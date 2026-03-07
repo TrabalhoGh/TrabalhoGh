@@ -17,8 +17,15 @@
 
 ### Game Development
 <p>
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
-<img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40" height="40"/>
+Unity (C#) • Unreal Engine (C++) • GameMaker
+<img src="https://cdn.simpleicons.org/unity" width="40"/>
+<img src="https://cdn.simpleicons.org/unrealengine" width="40"/>
+<img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40"/>
+
+### 💻 Programming
+
+C# (Unity scripting)  
+C++ (Unreal Engine gameplay programming)
 </p>
 
 ### Art & Animation Tools
