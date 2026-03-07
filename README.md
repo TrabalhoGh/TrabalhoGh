@@ -14,6 +14,6 @@
 ### 🎮 Game Development
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
-<img src="https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white"/>
 <img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40" height="40"/>
+<img src="https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white"/>
 </p>
