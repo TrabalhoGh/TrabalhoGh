@@ -17,3 +17,11 @@
 <img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40" height="40"/>
 <img src="https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white"/>
 </p>
+
+### Art & Animation Tools
+<p>
+<img src="https://cdn.simpleicons.org/blender" width="40"/>
+<img src="https://cdn.simpleicons.org/aseprite" width="40"/>
+<img src="https://raw.githubusercontent.com/DragonBones/DragonBonesJS/master/doc/img/logo.png" width="40"/>
+<img src="https://esotericsoftware.com/files/images/spine-logo.png" width="40"/>
+</p>
