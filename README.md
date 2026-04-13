@@ -1,4 +1,4 @@
-## 🛠️ Skills
+##  Skills
 
 ### Security
 <p>
@@ -27,14 +27,14 @@
 <img src="https://cdn.simpleicons.org/aseprite" width="40"/>
 </p>
 
-## 🚀 Skills & Platforms
+## Skills & Platforms
 
-### 🛡️ Cybersecurity
+###  Cybersecurity
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![LetsDefend](https://img.shields.io/badge/LetsDefend-0A0A0A?style=for-the-badge&logo=shield&logoColor=white)
 
-### 💻 Front-end
+### Familiarity with Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
