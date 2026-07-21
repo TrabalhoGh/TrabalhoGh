@@ -68,7 +68,7 @@
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform" />
 </p>
 
 
