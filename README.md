@@ -64,21 +64,8 @@
 ### Monitoring & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,zabbix" />
 </p>
-
-<p>
-<img src="https://cdn.simpleicons.org/zabbix" width="40"/>
-</p>
-
-
-
-### Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
 
 
 ### Version Control
