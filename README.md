@@ -1,16 +1,8 @@
 ## Skills
 
-### Security
-<p>
-<img src="https://skillicons.dev/icons?i=linux,python,azure,windows" />
-</p>
-
 ### Cybersecurity
 <p>
-<img src="https://cdn.simpleicons.org/kalilinux" width="40"/>
-<img src="https://cdn.simpleicons.org/wireshark" width="40"/>
-<img src="https://cdn.simpleicons.org/metasploit" width="40"/>
-<img src="https://cdn.simpleicons.org/owasp" width="40"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,python,azure,windows" />
 <img src="https://img.shields.io/badge/SIEM-blue?style=for-the-badge&logo=security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=hackerone&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge&logo=mitre&logoColor=white"/>
@@ -28,10 +20,6 @@
 
 
 ### Cybersecurity Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,wireshark" />
-</p>
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
