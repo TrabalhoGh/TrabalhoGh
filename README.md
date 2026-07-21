@@ -24,15 +24,6 @@
 </p>
 
 
-### Art & Animation Tools
-<p>
-<img src="https://skillicons.dev/icons?i=blender" />
-<img src="https://cdn.simpleicons.org/aseprite" width="40"/>
-<img src="https://cdn.simpleicons.org/zbrush" width="40"/>
-<img src="https://cdn.simpleicons.org/autodesk" width="40"/>
-</p>
-
-
 ## Skills & Platforms
 
 
