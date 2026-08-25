@@ -36,62 +36,78 @@ Focused on AI security, threat research and cloud defense.
 </td>
 <td width="40%" valign="top">
 
-### 📊 Contributions
+## Skills
 
-![](https://github-readme-stats.vercel.app/api?username=TrabalhoGh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🖥️ `$ ls featured-repos/`
-
-| Repo | Descrição |
-|---|---|
-| **[AI-Red-Team-Framework](https://github.com/TrabalhoGh/AI-Red-Team-Framework)** | Framework automatizado para testar e avaliar vulnerabilidades em sistemas de IA |
-| **[Cloud-Defense-Lab](https://github.com/TrabalhoGh/Cloud-Defense-Lab)** | Labs práticos de segurança AWS e detecção de ameaças em cloud |
-
-*Troque os links acima pelos nomes dos seus repositórios reais.*
-
-</td>
-<td width="45%" valign="top">
-
-### 👤 `$ cat about-me.txt`
-
-- 🔒 X+ anos em cibersegurança e segurança ofensiva
-- 🤖 Pesquisando segurança em IA/ML e prompt injection
-- 📚 Sempre aprendendo, sempre construindo
-
-### 📝 Últimos posts
-
-- [Prompt Injection: o novo SQLi](#)
-- [Top 10 riscos de segurança em IA](#)
-- [Kubernetes Security: 15 dicas de hardening](#)
-
-### 🔗 Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TrabalhoGh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-silva-8218471a5/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dgabriel826@gmail.com)
+### Cybersecurity
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,python,azure,windows" />
+<img src="https://img.shields.io/badge/SIEM-blue?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge&logo=mitre&logoColor=white"/>
+</p>
 
 
-</td>
-</tr>
-</table>
+### Game Development
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+<img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40" height="40"/>
+</p>
 
-<br>
 
-<div align="center">
+## Skills & Platforms
 
-```
-$ whoami
-> Building a safer digital future, one commit at a time.
-```
 
-</div>
+### Cybersecurity Platforms
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
+![LetsDefend](https://img.shields.io/badge/LetsDefend-0A0A0A?style=for-the-badge&logo=shield&logoColor=white)
+
+
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+</p>
+
+
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi" />
+</p>
+
+
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform" />
+</p>
+
+
+
+### Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,zabbix" />
+</p>
+
+
+### Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
