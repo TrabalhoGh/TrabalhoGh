@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- █████╗ ██╗    ██╗    ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
-██╔══██╗██║    ██║    ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
-███████║██║    ██║    ███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝ 
-██╔══██║██║    ██║    ╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝  
-██║  ██║██║    ██║    ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
-╚═╝  ╚═╝╚═╝    ╚═╝    ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
-```
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:39ff14&height=180&section=header&text=TrabalhoGh&fontSize=60&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=AI%20/%20SECURITY%20/%20DEVOPS&descAlignY=58&descSize=20&descColor=39ff14)
 
-### `> AI / SECURITY / DEVOPS_`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=Breaking+systems+to+build+stronger+ones.;Focused+on+AI+security+%26+threat+research.;whoami+%3E+building+a+safer+digital+future)
 
 </div>
 
@@ -32,13 +25,13 @@ Focused on AI security, threat research and cloud defense.
 
 <br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=39FF14)
+![Go](https://img.shields.io/badge/-Go-0d1117?style=flat-square&logo=go&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=39FF14)
 
 </td>
 <td width="40%" valign="top">
@@ -57,21 +50,19 @@ Focused on AI security, threat research and cloud defense.
 <tr>
 <td width="55%" valign="top">
 
-### `>_` Featured Repositories
+### 🖥️ `$ ls featured-repos/`
 
 | Repo | Descrição |
 |---|---|
 | **[AI-Red-Team-Framework](https://github.com/TrabalhoGh/AI-Red-Team-Framework)** | Framework automatizado para testar e avaliar vulnerabilidades em sistemas de IA |
 | **[Cloud-Defense-Lab](https://github.com/TrabalhoGh/Cloud-Defense-Lab)** | Labs práticos de segurança AWS e detecção de ameaças em cloud |
-| **[Malware-Analysis-Toolkit](https://github.com/TrabalhoGh/Malware-Analysis-Toolkit)** | Toolkit de análise estática e dinâmica de malware moderno |
-| **[K8s-Security-Playground](https://github.com/TrabalhoGh/K8s-Security-Playground)** | Baseline de segurança, scanning e hardening pra Kubernetes |
 
 *Troque os links acima pelos nomes dos seus repositórios reais.*
 
 </td>
 <td width="45%" valign="top">
 
-### 👤 About Me
+### 👤 `$ cat about-me.txt`
 
 - 🔒 X+ anos em cibersegurança e segurança ofensiva
 - 🤖 Pesquisando segurança em IA/ML e prompt injection
@@ -88,6 +79,7 @@ Focused on AI security, threat research and cloud defense.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TrabalhoGh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-silva-8218471a5/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dgabriel826@gmail.com)
+
 
 </td>
 </tr>
