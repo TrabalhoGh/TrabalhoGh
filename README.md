@@ -19,7 +19,7 @@ Breaking systems to build stronger ones.
 Focused on AI security, threat research and cloud defense.
 
 `🔗 [SEU-SITE-OU-PORTFOLIO]`
-`✉️ [dgabriel26@gmail.com]`
+`✉️ dgabriel26@gmail.com`
 
 
 <br>
