@@ -40,11 +40,11 @@ Focused on AI security, threat research and cloud defense.
 
 ### Cybersecurity
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali,python,azure,windows" />
+<img src="https://skillicons.dev/icons?i=linux,kali,python,azure,windows,nodejs,go,python,fastapi,postgres" />
 <img src="https://img.shields.io/badge/SIEM-blue?style=for-the-badge&logo=security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=hackerone&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge&logo=mitre&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi,postgres" />
+
 </p>
 
 
