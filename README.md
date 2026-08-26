@@ -30,7 +30,7 @@ Focused on AI security, threat research and cloud defense.
 ![Go](https://img.shields.io/badge/-Go-0d1117?style=flat-square&logo=go&logoColor=39FF14)
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=39FF14)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=39FF14)
-[![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=39FF14).
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=39FF14).
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=39FF14)
 
 </td>
