@@ -12,16 +12,15 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👤 TrabalhoGh ✅
+## 👤 TrabalhoGh 
 **AI Security Researcher & Developer**
 
 Breaking systems to build stronger ones.
 Focused on AI security, threat research and cloud defense.
 
 `🔗 [SEU-SITE-OU-PORTFOLIO]`
-`🐦 @[SEU-USUARIO-X]`
-`✉️ [SEU-EMAIL]`
-`📍 [SUA-CIDADE]`
+`✉️ [dgabriel26@gmail.com]`
+
 
 <br>
 
