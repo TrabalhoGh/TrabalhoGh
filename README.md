@@ -13,10 +13,13 @@
 <td width="60%" valign="top">
 
 ## 👤 TrabalhoGh 
-**AI Security Researcher & Developer**
+**AI Security & Security Engineer**
 
 Breaking systems to build stronger ones.
-Focused on AI security, threat research and cloud defense.
+Securing what others overlook.
+Think like an attacker. Build like a defender.
+Hunting weaknesses. Engineering resilience.
+Focused on AI security, Security Engineering and Cloud defense.
 
 `🔗 [SEU-SITE-OU-PORTFOLIO]`
 `✉️ dgabriel26@gmail.com`
