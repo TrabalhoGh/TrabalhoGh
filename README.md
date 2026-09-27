@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:39ff14&height=180&section=header&text=TrabalhoGh&fontSize=60&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=AI%20/%20SECURITY%20/%20DEVOPS&descAlignY=58&descSize=20&descColor=39ff14)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=Breaking+systems+to+build+stronger+ones.;Securing+what+others+overlook.;Think+like+an+attacker.;Build+like+a+defender.;Hunting+weaknesses.;Engineering+resilience.;Focused+on+AI+security%2C+Security+Engineering+and+Cloud+defense.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=Breaking+systems+to+build+stronger+ones.;Securing+what+others+overlook.;Think+like+an+attacker.;Build+like+a+defender.;Hunting+weaknesses.;Engineering+resilience.)
 
 </div>
 
@@ -13,9 +13,9 @@
 <td width="60%" valign="top">
 
 ## 👤 TrabalhoGh 
-**AI Security & Security Engineer**
+**AI Security, Security Engineer & Security Awareness**
 
-Breaking systems to build stronger ones.
+Protect people, Hunting things. The Bussiness family.
 Securing what others overlook.
 Think like an attacker. Build like a defender.
 Hunting weaknesses. Engineering resilience.
