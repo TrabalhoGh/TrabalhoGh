@@ -73,7 +73,7 @@ Focused on AI security, Security Engineering and Cloud defense.
 ### Monitoring & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,zabbix" />
+<img src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
 
@@ -86,5 +86,4 @@ Focused on AI security, Security Engineering and Cloud defense.
 ### Game Development
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-<img src="https://cdn.simpleicons.org/gamemaker/6CFF00" width="40" height="40"/>
 </p>
